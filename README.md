@@ -5,7 +5,7 @@
 Recriando o jogo da cobrinha com HTML, CSS e JavaScript. Da Digital Innovation One, Gabriela Pinheiro, Front-End Developer.
 <h2>📱Tela do projeto</h2>
 
-<img src="https://user-images.githubusercontent.com/86376135/170055623-d2044c84-b88e-47c0-b0db-e46d23508e57.png" width="550px"/> <img src="https://user-images.githubusercontent.com/86376135/170055653-c847e297-3758-4a7a-a46a-5e8ac19445fa.png" width="200px"/>
+<img src="https://user-images.githubusercontent.com/86376135/174350085-569ecf82-6869-4e9d-9a3d-833af9c41eb0.png" width="1100px"/>
 
 <h2>✒️Autor</h2>
 
