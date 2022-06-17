@@ -1,4 +1,4 @@
-<h1>Snake Geme</h1>
+<h1>Snake Game</h1>
  
 <h2>💬Descrição:</h2>
 
@@ -9,5 +9,5 @@ Recriando o jogo da cobrinha com HTML, CSS e JavaScript. Da Digital Innovation O
 
 <h2>✒️Autor</h2>
 
-| [<img src="https://avatars.githubusercontent.com/u/86376135?v=4" width=115 > <br> <sub> William Braz </sub>](https://github.com/WilliamBraz2004) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/86376135?v=4" width=115 > <br> <sub> William Braz </sub>](https://github.com/WilliamBraz2004) | 
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | 
